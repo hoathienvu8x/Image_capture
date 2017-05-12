@@ -1,0 +1,9 @@
+1.For system settings : see
+	https://msdn.microsoft.com/en-us/library/windows/desktop/ms724385(v=vs.85).aspx
+
+2. Source used : 
+	2.1 Base source:
+		http://stackoverflow.com/questions/3291167/how-can-i-take-a-screenshot-in-a-windows-application
+	2.2 gitignore:
+		https://github.com/github/gitignore
+		

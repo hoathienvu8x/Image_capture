@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1494606630 source:c:\users\marcis\desktop\image_capture\imige_capture_on_win\main.cpp
+	<windows.h>
+	<iostream>
+	"main.h"
+
+1494605673 c:\users\marcis\desktop\image_capture\imige_capture_on_win\main.h
+
